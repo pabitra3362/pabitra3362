@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on mern stack projects.<br>👯 I’m looking to collaborate on industries to gain in-hand industries.<br>🤝 I’m looking for help with developers.<br>🌱 I’m currently learning mern stack.<br>💬 Ask me about anything!!!
+🔭 I’m currently working on mern stack projects.<br>👯 I’m looking to collaborate on industries to gain in-hand experience.<br>🤝 I’m looking for help with developers.<br>🌱 I’m currently learning mern stack.<br>💬 Ask me about anything!!!
 
 
 ## 🌐 Socials:
